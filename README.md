@@ -1,4 +1,4 @@
-# RRT Algorithm for Non-Holonomic-Robots
+# RRT Algorithm for Holonomic-Robots
 
 ## Algorithm
 
